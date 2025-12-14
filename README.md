@@ -1,10 +1,15 @@
-# 🧠 Meeting Action Extractor
-AI-powered backend that converts meeting notes into structured action items using LLMs.
+# 🧠 Meeting Action Extractor - Full Stack Application
+
+**⭐ START HERE**: 
+- [QUICKSTART.md](./QUICKSTART.md) - Get running in 5 minutes
+- [QUICK_REFERENCE.md](./QUICK_REFERENCE.md) - Cheat sheet
+- [FULL_README.md](./FULL_README.md) - Complete documentation
+- [PROJECT_COMPLETE.md](./PROJECT_COMPLETE.md) - What was built
 
 ---
 
 ## 📌 One-Line Description
-A FastAPI-based AI workflow that processes meeting transcripts (from voice-first platforms like SpeakSpace) and automatically extracts structured action items including owner, task, deadline, priority, and confidence.
+A complete web application with React frontend + FastAPI backend that processes meeting notes (text or voice) using AI to generate summaries, minutes of meeting, and action items.
 
 ---
 
