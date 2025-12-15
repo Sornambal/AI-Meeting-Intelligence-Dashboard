@@ -1,10 +1,7 @@
-# 🧠 Meeting Action Extractor - Full Stack Application
+# 🧠 Meeting Action Extractor - AI Application
 
-**⭐ START HERE**: 
-- [QUICKSTART.md](./QUICKSTART.md) - Get running in 5 minutes
-- [QUICK_REFERENCE.md](./QUICK_REFERENCE.md) - Cheat sheet
-- [FULL_README.md](./FULL_README.md) - Complete documentation
-- [PROJECT_COMPLETE.md](./PROJECT_COMPLETE.md) - What was built
+ LIVE DEMO: https://meeting-action-extractor.onrender.com/docs
+
 
 ---
 
