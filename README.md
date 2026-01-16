@@ -1,6 +1,8 @@
 # 🧠 Meeting Action Extractor - AI Application
 
- LIVE DEMO: https://meeting-action-extractor.onrender.com/docs
+ ## 🎥 Demo Video
+[Click here to watch the demo video](https://drive.google.com/file/d/1b24PLNQT4djLQdFAvQNqsiarZBQcIlk6/view?usp=sharing)
+
 
 
 ---
